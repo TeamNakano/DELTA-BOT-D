@@ -1,7 +1,7 @@
 <h1 align="center">‧ DELTA-BOT ‧
 </p>
 <p>
-        <img src= "https://tinyurl.com/25ea6lmu">
+        <img src= "https://tinyurl.com/2alctfky">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
